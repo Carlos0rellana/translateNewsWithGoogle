@@ -1,7 +1,9 @@
 .DS_Store
 Thumbs.db
-/config/
+/config/*
 /logs/
 
 # exepciones de archivos
 !/config/dataConection.php_example
+!/config/translatearticles.json_example
+!/config/index.php
